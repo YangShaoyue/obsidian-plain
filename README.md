@@ -1,3 +1,5 @@
+> Forked from Things 2, in development...
+
 ### Notes on V1 of this theme
 
 V1 of this theme was built using code from **@kepano's** great Minimal theme. Please support @kepano's work!
